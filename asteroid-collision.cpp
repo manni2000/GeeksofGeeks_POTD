@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 vector<int> asteroidCollision(int N, vector<int> &asteroids)
 {
     // code here
